@@ -1,0 +1,3 @@
+Test Case ID: TC002
+Test Name: WiFi Connection Test
+Expected Result: Device connects to WiFi
