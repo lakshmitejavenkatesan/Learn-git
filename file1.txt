@@ -1,0 +1,3 @@
+Test case ID: TC001
+Test Name: Power ON Test
+Expected Result: Device should power ON successfully
